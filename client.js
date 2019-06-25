@@ -1,4 +1,4 @@
-var socket_url = 'wss:sdasfaffsfssf';
+var socket_url = 'wss://tabella-socket-backend.herokuapp.com';
 
 var connectionOptions = {
 	'force new connection' : true,
